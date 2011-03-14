@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RingtonePlus</string>
+    
+    <string name="pref_basic_function_title">Basic function</string>
+    
+    <string name="pref_pocket_mode_title">Pocket mode</string>
+    <string name="pref_pocket_mode_summary">Louder ringtone when phone is in pocket</string>
+    
+    <string name="pref_polite_mode_title">Polite mode</string>
+    <string name="pref_polite_mode_summary">Lower the ringtone when pickup the phone</string>
+    
+    <string name="pref_vibrate_on_connect_title">Vibrate when phone connects</string>
+    <string name="pref_vibrate_on_connect_summary">Notify when out going call is connected</string>
+    
+    <string name="pref_unsilent_phone_title">UnSilent phone by call</string>
+    
+    <string name="pref_flip_to_silent_title">Flip to silent</string>
+    <string name="pref_flip_to_silent_summary">When phone is face up on table, flip to silent</string>
+
+</resources>

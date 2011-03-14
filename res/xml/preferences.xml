@@ -1,0 +1,28 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<PreferenceCategory android:title="@string/pref_basic_function_title">
+		<CheckBoxPreference
+			android:key="pref_pocket_mode"
+			android:defaultValue="false"
+			android:title="@string/pref_pocket_mode_title"
+			android:summary="@string/pref_pocket_mode_summary" />
+		
+		<CheckBoxPreference
+			android:key="pref_polite_mode"
+			android:defaultValue="false"
+			android:title="@string/pref_polite_mode_title"
+			android:summary="@string/pref_polite_mode_summary" />
+			
+		<CheckBoxPreference
+			android:key="pref_vibrate_on_connect"
+			android:enabled="false"
+			android:defaultValue="false"
+			android:title="@string/pref_vibrate_on_connect_title"
+			android:summary="@string/pref_vibrate_on_connect_summary" />
+	</PreferenceCategory>
+
+	<PreferenceCategory android:title="@string/pref_unsilent_phone_title">
+		
+	</PreferenceCategory>
+
+</PreferenceScreen>

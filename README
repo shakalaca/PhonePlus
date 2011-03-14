@@ -1,0 +1,9 @@
+Pocket mode: Louder the ring volume when your phone is in pocket, detected by light sensor or proximity sensor.
+Polite mode: Lower the ring volume when you pickup the phone, detected by accelerometer sensor.
+
+2011-03-14: v1.0
+* Initial version
+
+TODO:
+* Unsilent the phone: useful when you can't find your phone and unfortunately it's in silent mode.
+* Vibrate when phone connect.
